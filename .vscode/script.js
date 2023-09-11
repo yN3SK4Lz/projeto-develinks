@@ -14,8 +14,6 @@ function toggleMode() {
         }else{
           img.setAttribute("src", "./assets/avatar.png")
         }
-
-        let 
 }
 
 
